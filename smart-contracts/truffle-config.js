@@ -8,6 +8,8 @@ module.exports = {
       host: "127.0.0.1",     // Localhost
       port: 8545,            // Standard Ganache port
       network_id: "*",       // Match any network id
+      gas: 8000000, // Increase gas limit
+
     },
   },
 

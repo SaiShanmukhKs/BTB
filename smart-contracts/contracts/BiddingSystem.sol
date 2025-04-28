@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+import "./TenderFactory.sol";
 /**
  * @title BiddingSystem
  * @dev Contract for managing bids for tenders
